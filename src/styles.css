@@ -54,14 +54,15 @@ main h2 {
   color: #272044;
   opacity: 0.3;
   text-transform: uppercase;
-  margin: 0;
+  margin-top: 0;
 }
+
 main h3 {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.5;
   color: #272044;
-  margin: 0;
+  margin-top: 0;
 }
 .card {
   background-color: white;
@@ -162,6 +163,9 @@ img {
 }
 .secondary {
   padding: 2px 10px;
+}
+.instagram-embeds {
+  margin: 30px 0;
 }
 footer {
   color: white;
